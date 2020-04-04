@@ -1,7 +1,7 @@
 ---
-title: 'Our Difference'
+title: 'Les plantes, c est la vie ! '
 button: 'About us'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie ! Les plantes, c'est la vie !

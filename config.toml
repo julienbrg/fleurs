@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "http://localhost:1313"
 
-title = "Axiom A Hugo Theme"
+title = "Les plantes de Carole"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 
@@ -20,12 +20,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 post = "/:filename"
 
 [params]
-mainSections = ["post"]
-copyrightYear = 2000
+mainSections = ["fleurs"]
 
 [params.brand]
-domain = "example.com"
-email = "info@example.com"
+domain = ""
+email = ""
 
 [params.social]
 facebook = "https://www.facebook.com/user_or_page"
@@ -59,11 +58,11 @@ files = []
 width = "2048"
 height = "1024"
 default = "image/page-default.webp"
-faviconIco = "favicon.ico"
-faviconAlt = "image/brand/favicon.png"
+faviconIco = "image/chardon.jpg"
+faviconAlt = "image/chardon.jpg"
 icon1To1 = "image/brand/icon-1-1.png"
 icon2To1 = "image/brand/icon-2-1.png"
-logo = "image/fleurs.jpg"
+logo = "image/chardon.jpg"
 
 [params.cdn]
 provider = "local"
