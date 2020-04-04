@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "http://localhost:8090/"
 
 title = "Les plantes de Carole"
 languageCode = "en-us"
@@ -6,6 +6,7 @@ defaultContentLanguage = "en-us"
 
 theme = "axiom"
 
+relativeurls = true
 canonifyURLs = false
 rssLimit = 100
 enableEmoji = true
@@ -57,12 +58,12 @@ files = []
 [params.image]
 width = "2048"
 height = "1024"
-default = "image/page-default.webp"
-faviconIco = "image/chardon.jpg"
-faviconAlt = "image/chardon.jpg"
-icon1To1 = "image/brand/icon-1-1.png"
-icon2To1 = "image/brand/icon-2-1.png"
-logo = "image/chardon.jpg"
+default = "./image/page-default.webp"
+faviconIco = "./image/chardon.jpg"
+faviconAlt = "./image/chardon.jpg"
+icon1To1 = "./image/brand/icon-1-1.png"
+icon2To1 = "./image/brand/icon-2-1.png"
+logo = "./image/chardon.jpg"
 
 [params.cdn]
 provider = "local"
