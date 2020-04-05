@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 post = "/:filename"
 
 [params]
-mainSections = ["fleurs"]
+mainSections = ["jardin", "sejour"]
 
 [params.brand]
 domain = ""
@@ -120,13 +120,18 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
-url = "/fleurs/"
-name = "Fleurs"
+url = "/jardin/"
+name = "Jardin"
+weight = 1
+
+[[menu.main]]
+url = "/sejour/"
+name = "Séjour"
 weight = 1
 
 [[menu.mobile]]
-url = "/fleurs/"
-name = "Fleurs"
+url = "/jardin/"
+name = "Jardin"
 weight = 1
 
 [[menu.mobile]]
@@ -135,14 +140,19 @@ name = "Info"
 weight = 2
 
 [[menu.foot]]
-url = "/fleurs/"
-name = "Fleurs"
-weight = 1
+url = "/jardin/"
+name = "Jardin"
+weight = 2
+
+[[menu.foot]]
+url = "/sejour/"
+name = "Séjour"
+weight = 2
 
 [[menu.foot]]
 url = "/info/"
 name = "Info"
-weight = 2
+weight = 3
 
 [languages]
 [languages."en-us"]

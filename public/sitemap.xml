@@ -1,35 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8090/fleurs/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:8090/fleurs/lila/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:8090/fleurs/lila0/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:8090/fleurs/lila1/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:8090/fleurs/lila2/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:8090/fleurs/lila3/</loc>
-    <lastmod>2019-03-11T00:00:00Z</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:8090/</loc>
-    <lastmod>2019-02-28T00:00:00Z</lastmod>
+    <lastmod>2020-04-05T00:00:00Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:8090/info/</loc>
-    <lastmod>2019-02-28T00:00:00Z</lastmod>
+    <lastmod>2020-04-05T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/lila/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/lila0/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/lila1/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/lila2/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/jardin/lila3/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/lila/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/lila0/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/lila1/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/lila2/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:8090/sejour/lila3/</loc>
+    <lastmod>2019-03-11T00:00:00Z</lastmod>
   </url>
 </urlset>
