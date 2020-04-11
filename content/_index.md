@@ -1,5 +1,5 @@
 +++
 author = "default"
 feature = "image/fleurs.jpg"
-caption = "La jardinière"
+caption = "Mon Merveilleux Balcon"
 +++

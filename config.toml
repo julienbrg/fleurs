@@ -1,6 +1,6 @@
-baseURL = "http://localhost:8090/"
+baseURL = "http://localhost:1313/"
 
-title = "Les plantes de Carole"
+title = "Les plantes de Karo"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 
@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 post = "/:filename"
 
 [params]
-mainSections = ["jardin", "sejour"]
+mainSections = ["Balcon", "sejour"]
 
 [params.brand]
 domain = ""
@@ -58,12 +58,12 @@ files = []
 [params.image]
 width = "2048"
 height = "1024"
-default = "./image/page-default.webp"
-faviconIco = "./image/chardon.jpg"
-faviconAlt = "./image/chardon.jpg"
-icon1To1 = "./image/brand/icon-1-1.png"
-icon2To1 = "./image/brand/icon-2-1.png"
-logo = "./image/chardon.jpg"
+default = "./image/logo.jpg"
+faviconIco = "./image/logo.jpg"
+faviconAlt = "./image/logo.jpg"
+icon1To1 = "./image/logo.jpg"
+icon2To1 = "./image/logo.jpg"
+logo = "./image/logo.jpg"
 
 [params.cdn]
 provider = "local"
@@ -120,18 +120,18 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
-url = "/jardin/"
-name = "Jardin"
+url = "/Balcon/"
+name = "Balcon"
 weight = 1
 
 [[menu.main]]
-url = "/sejour/"
-name = "Séjour"
+url = "/Intérieur/"
+name = "Intérieur"
 weight = 1
 
 [[menu.mobile]]
-url = "/jardin/"
-name = "Jardin"
+url = "/Balcon/"
+name = "Balcon"
 weight = 1
 
 [[menu.mobile]]
@@ -140,13 +140,13 @@ name = "Info"
 weight = 2
 
 [[menu.foot]]
-url = "/jardin/"
-name = "Jardin"
+url = "/Balcon/"
+name = "Balcon"
 weight = 2
 
 [[menu.foot]]
-url = "/sejour/"
-name = "Séjour"
+url = "/Intérieur/"
+name = "Intérieur"
 weight = 2
 
 [[menu.foot]]
