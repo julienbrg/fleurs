@@ -1,12 +1,7 @@
 ---
-title: 'Chez Karo'
+title: 'Bienvenu Chez Moi...'
 button: 'Our Work'
 weight: 1
 ---
 
-Salut, c'est le blog de Karo. :)
-
-Wéééééé !
-Wéééééé !
-Wéééééé !
-Wéééééé !
+Un blog pour vous donner des nouvelles de mes plantes sur mon merveilleux balcon !
