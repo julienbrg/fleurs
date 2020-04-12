@@ -14,7 +14,7 @@ categories = [
     "fiches",
 ]
 series = ["Mes plantes"]
-feature = "image/fleurs.jpg"
+feature = "image/interieur.jpg"
 +++
 
 J'ai aussi pas mal de plantes à l'intérieur mais... patience !
@@ -24,6 +24,15 @@ J'ai aussi pas mal de plantes à l'intérieur mais... patience !
 
 Ok, j'en ai des tonnes, mais j'adore !
 
-{{< figure src="image/fleurs.jpg" alt="Fleurs" caption="Mes fleurs" >}}
+{{< figure src="image/int1.jpg" alt="Fleurs" caption="???" >}}
 
 Je ferai bientot la liste de mes plantes d'intérieur... cet hiver peut-être !
+en attendant, un petit aperçu :
+
+{{< figure src="image/int2.jpg" alt="Fleurs" caption="???" >}}
+
+{{< figure src="image/int3.jpg" alt="Fleurs" caption="Cactus de Noël" >}}
+
+{{< figure src="image/int4.jpg" alt="Fleurs" caption="Chaîne de Coeurs" >}}
+
+{{< figure src="image/int5.jpg" alt="Fleurs" caption="???" >}}
