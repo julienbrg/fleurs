@@ -1,275 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-  <title>Les plantes de Carole</title>
+  <title>Les plantes de Karo</title>
   <subtitle>Example Company Tagline</subtitle>
   <id>http://localhost:1313/</id>
   <author>
-    <name>Les plantes de Carole</name>
+    <name>Les plantes de Karo</name>
     <uri>http://localhost:1313/</uri>
   </author>
-  <icon>http://localhost:1313/image/brand/icon-1-1.png</icon>
-  <logo>http://localhost:1313/image/brand/icon-2-1.png</logo>
-  <updated>2020-04-05T16:38:20Z</updated>
+  <icon>http://localhost:1313/image/logo.jpg</icon>
+  <logo>http://localhost:1313/image/logo.jpg</logo>
+  <updated>2020-04-12T18:05:34Z</updated>
   <link rel="self" type="application/atom+xml" href="http://localhost:1313/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="http://localhost:1313/" hreflang="en-us"/>
   <entry>
-    <title>Le plus beau des lilas</title>
+    <title>Le Buis de Beauté</title>
     <author>
-      <name>Default Author</name>
+      <name>Karo</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>http://localhost:1313/jardin/lila/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
+    <id>http://localhost:1313/balcon/buis_beaute/</id>
+    <updated>2020-04-09T00:00:00Z</updated>
+    <published>2020-04-09T00:00:00Z</published>
+    <content type="html">&lt;p&gt;Et voici un Buis de Beauté. Il me donne, des fleurs roses toutes mignones !&lt;/p&gt;
+&lt;h2&gt;Une multitude de clochettess roses&lt;/h2&gt;
+&lt;p&gt;Par expérience, pour qu&#39;il fleurisse, il faut arroser à gogo dés la fin de l&#39;hiver... sinon walou !!&lt;/p&gt;
 
 
 &lt;figure&gt;
 &lt;img
 class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
+src=&#34;/image/buis_beaute.jpg&#34;
 alt=&#34;Fleurs&#34;&gt;
 &lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
 &lt;p&gt;Mes fleurs&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
+&lt;p&gt;Pour le partage, aucune idée de comment il se bouture ! à suivre...&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Le plus beau des lilas</title>
+    <title>Le Lilas</title>
     <author>
-      <name>Default Author</name>
+      <name>Karo</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>http://localhost:1313/jardin/lila0/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
+    <id>http://localhost:1313/balcon/lilas/</id>
+    <updated>2020-04-09T00:00:00Z</updated>
+    <published>2020-04-09T00:00:00Z</published>
+    <content type="html">&lt;p&gt;Et voici mes lilas. Ils sont Bretons. J&#39;en suis très fière ! J&#39;en ai quatre. Ils ne fleurissent pas tous chaque année... Cette année trois sont fleuris. Comme ils sentent bon ! c&#39;est le bonheur !&lt;/p&gt;
+&lt;h2&gt;Une senteur très odorante !&lt;/h2&gt;
+&lt;p&gt;Et voici le lila. Ceux-ci viennent de Bretagne ! De chez Lennie exactement... j&#39;ai récupéré ces rejets durant l&#39;été 2014, si ma mémoire est bonne !&lt;/p&gt;
 
 
 &lt;figure&gt;
 &lt;img
 class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
+src=&#34;/image/lilas.jpg&#34;
 alt=&#34;Fleurs&#34;&gt;
 &lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
+&lt;p&gt;Mon lilas&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/jardin/lila1/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/jardin/lila2/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/jardin/lila3/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/sejour/lila/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/sejour/lila0/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/sejour/lila1/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/sejour/lila2/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Le plus beau des lilas</title>
-    <author>
-      <name>Default Author</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>http://localhost:1313/sejour/lila3/</id>
-    <updated>2019-03-11T00:00:00Z</updated>
-    <published>2019-03-11T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-&lt;h2&gt;La plus belle des plantes !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;
-
-
-&lt;figure&gt;
-&lt;img
-class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/fleurs.jpg&#34;
-alt=&#34;Fleurs&#34;&gt;
-&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin. Et voici le lila. C&#39;est une des plus belles fleurs de mon jardin. Je suis vraiment ravie de l&#39;avoir. J&#39;en prends un grand soin.&lt;/p&gt;</content>
+&lt;p&gt;Quoi dire d&#39;autre ? dans les pots, aux pieds des plantes, il y a des rejets... Si vous en voulez, faites moi signe, par contre floraison non garantie :-)&lt;/p&gt;
+&lt;p&gt;D&#39;ailleurs que sont devenus les bébés que j&#39;ai partagé ? Fleurissent-ils ? Lynda ? Aurore ?&lt;/p&gt;</content>
   </entry>
 </feed>
