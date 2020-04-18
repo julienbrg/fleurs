@@ -9,37 +9,138 @@
   </author>
   <icon>http://localhost:1313/image/logo.jpg</icon>
   <logo>http://localhost:1313/image/logo.jpg</logo>
-  <updated>2020-04-12T18:05:34Z</updated>
+  <updated>2020-04-18T16:29:31Z</updated>
   <link rel="self" type="application/atom+xml" href="http://localhost:1313/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="http://localhost:1313/" hreflang="en-us"/>
   <entry>
-    <title>Le Buis de Beauté</title>
+    <title>Rhododendron</title>
     <author>
       <name>Karo</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>http://localhost:1313/balcon/buis_beaute/</id>
-    <updated>2020-04-09T00:00:00Z</updated>
-    <published>2020-04-09T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici un Buis de Beauté. Il me donne, des fleurs roses toutes mignones !&lt;/p&gt;
-&lt;h2&gt;Une multitude de clochettess roses&lt;/h2&gt;
-&lt;p&gt;Par expérience, pour qu&#39;il fleurisse, il faut arroser à gogo dés la fin de l&#39;hiver... sinon walou !!&lt;/p&gt;
+    <id>http://localhost:1313/balcon/rhododendron/</id>
+    <updated>2020-04-12T00:00:00Z</updated>
+    <published>2020-04-12T00:00:00Z</published>
+    <content type="html">&lt;p&gt;Attention, rhododendron !&lt;/p&gt;
+&lt;h2&gt;En cours de floraison&lt;/h2&gt;
+&lt;p&gt;C&#39;est mon tout premier Rhododendron.
+Je l&#39;ai acheté aux serres du Lycée de Dardilly.
+J&#39;attends patiement la floraison, une unique fleur ? A suivre...&lt;/p&gt;
 
 
 &lt;figure&gt;
 &lt;img
 class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/buis_beaute.jpg&#34;
+src=&#34;/image/rodo0.jpg&#34;
 alt=&#34;Fleurs&#34;&gt;
 &lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mes fleurs&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Pour le partage, aucune idée de comment il se bouture ! à suivre...&lt;/p&gt;</content>
+&lt;p&gt;Suivi de la floraison :
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo1.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo1b.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo2.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo3.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Il y avait plein de bontons quand je l&#39;ai acheté, je pensais qu&#39;il y aurait pleins de fleurs... mais non il semblerait que ce soit des boutons de... feuilles !!! Grrrr...&lt;/p&gt;
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo-f0.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/rodo-f1.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</content>
   </entry>
   <entry>
-    <title>Le Lilas</title>
+    <title>Buisson de beauté</title>
+    <author>
+      <name>Karo</name>
+      <uri>https://example.com/</uri>
+    </author>
+    <id>http://localhost:1313/balcon/buisson_beaute/</id>
+    <updated>2020-04-09T00:00:00Z</updated>
+    <published>2020-04-09T00:00:00Z</published>
+    <content type="html">&lt;p&gt;Voici mon buisson de beauté, &lt;em&gt;kolkwitzia amabilis&lt;/em&gt;. Il est beau, et me donne des fleurs roses toutes mignones !&lt;/p&gt;
+&lt;h2&gt;Une multitude de clochettess roses&lt;/h2&gt;
+&lt;p&gt;Par expérience, pour qu&#39;il fleurisse, il faut arroser à gogo dés la fin de l&#39;hiver... sinon walou !!
+Cette année, j&#39;ai bien géré, alors tous les jours de nouvelles fleurs me ravissent !&lt;/p&gt;
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/buis_beaute2.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;Buisson de beauté&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aujardin.info/plantes/kolkwitzia-amabilis.php&#34;&gt;D&#39;autres infos ici&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Lilas</title>
     <author>
       <name>Karo</name>
       <uri>https://example.com/</uri>
@@ -47,22 +148,48 @@ alt=&#34;Fleurs&#34;&gt;
     <id>http://localhost:1313/balcon/lilas/</id>
     <updated>2020-04-09T00:00:00Z</updated>
     <published>2020-04-09T00:00:00Z</published>
-    <content type="html">&lt;p&gt;Et voici mes lilas. Ils sont Bretons. J&#39;en suis très fière ! J&#39;en ai quatre. Ils ne fleurissent pas tous chaque année... Cette année trois sont fleuris. Comme ils sentent bon ! c&#39;est le bonheur !&lt;/p&gt;
+    <content type="html">&lt;p&gt;Mes lilas, &lt;em&gt;syringa vulgaris&lt;/em&gt;, sont Bretons. J&#39;en suis très fière ! J&#39;en ai quatre. Ils ne fleurissent pas tous chaque année... Cette année trois sont fleuris. Comme ils sentent bon ! c&#39;est le bonheur !&lt;/p&gt;
 &lt;h2&gt;Une senteur très odorante !&lt;/h2&gt;
-&lt;p&gt;Et voici le lila. Ceux-ci viennent de Bretagne ! De chez Lennie exactement... j&#39;ai récupéré ces rejets durant l&#39;été 2014, si ma mémoire est bonne !&lt;/p&gt;
+&lt;p&gt;Ces lilas viennent de Bretagne ! De chez Lennie exactement... j&#39;ai récupéré ces rejets durant l&#39;été 2014, si ma mémoire est bonne !&lt;/p&gt;
 
 
 &lt;figure&gt;
 &lt;img
 class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
-src=&#34;/image/lilas.jpg&#34;
+src=&#34;/image/lilas2.jpg&#34;
 alt=&#34;Fleurs&#34;&gt;
 &lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
-&lt;p&gt;Mon lilas&lt;/p&gt;
+&lt;p&gt;Lilas&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Quoi dire d&#39;autre ? dans les pots, aux pieds des plantes, il y a des rejets... Si vous en voulez, faites moi signe, par contre floraison non garantie :-)&lt;/p&gt;
-&lt;p&gt;D&#39;ailleurs que sont devenus les bébés que j&#39;ai partagé ? Fleurissent-ils ? Lynda ? Aurore ?&lt;/p&gt;</content>
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/lilas3.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;Lilas&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;D&#39;ailleurs que sont devenus les bébés que j&#39;ai partagé ? Fleurissent-ils ? Lynda ? Aurore ?&lt;/p&gt;
+
+
+&lt;figure&gt;
+&lt;img
+class=&#34;mb-2 mx-auto leading-none shadow-xl&#34;
+src=&#34;/image/lilas1.jpg&#34;
+alt=&#34;Fleurs&#34;&gt;
+&lt;figcaption class=&#34;text-sm text-right text-raven-500&#34;&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tonton, promis, les prochains rejets seront pour toi, à planter dans le grand jardin à Novalaise 😄&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.aujardin.info/plantes/lilas.php&#34;&gt;D&#39;autres infos ici&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

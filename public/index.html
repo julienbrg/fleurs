@@ -13,8 +13,10 @@
   <link rel="canonical" href="http://localhost:1313/">
   <link rel="alternate" type="application/atom+xml" href="http://localhost:1313/feed.atom" hreflang="en-us"/>
   
-<link rel="preload" as="style" href="./bundle.css?v=1586714734" media="all">
-<link rel="stylesheet" href="./bundle.css?v=1586714734" media="all">
+<link rel="preload" as="style" href="./app.css?v=1587227371" media="all">
+<link rel="stylesheet" href="./app.css?v=1587227371" media="all">
+<link rel="preload" as="style" href="./custom.css?v=1587227371" media="all">
+<link rel="stylesheet" href="./custom.css?v=1587227371" media="all">
 
 <link rel="preload" as="image" href="./image/fleurs.jpg">
 
@@ -67,7 +69,10 @@
 }
 </script>
 
-<link rel="preload" as="script" href="./bundle.js?v=1586714734">
+  
+<link rel="preload" as="script" href="./app.js?v=1587227371">
+<link rel="preload" as="script" href="./custom.js?v=1587227371">
+
 <link rel="preconnect" href="https://www.google-analytics.com">
 <link rel="preconnect" href="https://stats.g.doubleclick.net">
 <link rel="preconnect" href="https://www.googleadservices.com">
@@ -86,8 +91,8 @@
   <header id="nav" class="relative shadow-b bg-white">
   <div class="px-4 py-3">
     <div class="flex items-center mx-auto max-w-6xl">
-      <div class="logo">
-        <a class="block" href="./" title="Les plantes de Karo"><span class="font-semibold text-raven-900">Les plantes de Karo</span></a>
+      <div>
+        <a class="block h-9 w-9" href="./" title="Les plantes de Karo"><img src="./image/logo.jpg" alt="Les plantes de Karo"></a>
       </div>
       <div class="ml-auto flex items-center">
         <a class="p-2 w-7 h-7 block text-raven-500 hover:text-gray-800 focus:text-gray-800 focus:outline-none" target="_blank" rel="noopener nofollow" href="https://www.google.com/search?q=site:">
@@ -112,9 +117,9 @@
 <img
 class="mb-2 mx-auto leading-none shadow-xl"
 src="./image/fleurs.jpg"
-alt="Mon Merveilleux Balcon">
+alt="">
 <figcaption class="text-sm text-right text-raven-500">
-<p>Mon Merveilleux Balcon</p>
+<p></p>
 </figcaption>
 </figure>
 
@@ -124,15 +129,10 @@ alt="Mon Merveilleux Balcon">
     <div class="mx-auto w-full max-w-2xlp">
     
       <section class="mt-9 cdata">
-        <h2>Bienvenu Chez Moi...</h2>
-        <p>Un blog pour vous donner des nouvelles de mes plantes sur mon merveilleux balcon !</p>
-
-      </section>
-    
-      <section class="mt-9 cdata">
-        <h2>Des nouvelles de mon balcon !!! </h2>
-        <p>Les plantes, c'est la vie !<br>
-Je les adore et je partage  :-)</p>
+        <h2>Bienvenue chez Karo !</h2>
+        <p>Un blog pour vous donner des nouvelles de mes plantes et de mon merveilleux balcon !</p>
+<p>Les plantes, c'est la vie ! Je les adore alors je partage  !</p>
+<p><em>Je ne suis pas sûre à 100% de toutes les identifications des plantes, alors si vous avez des corrections, dites-le moi !</em> 😄</p>
 
       </section>
     
@@ -141,20 +141,38 @@ Je les adore et je partage  :-)</p>
 
   <div class="mt-8 mx-4 md:mx-8">
     <div class="mx-auto w-full max-w-2xlp">
-      <h1 class="uppercase tracking-wide text-2xl text-raven-800 font-semibold">Dernières nouvelles</h1>
+      <h1 class="uppercase tracking-wide text-2xl text-raven-800 font-semibold">Posts récents</h1>
         
         
           <div class="mt-8">
             <div class="sm:flex">
   <div class="sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
-    <a class="block" href="./balcon/buis_beaute/"><img
+    <a class="block" href="./balcon/rhododendron/"><img
     class="sm:w-40 sm:h-40 mx-auto object-cover"
-    src="./image/buis_beaute.jpg"
-    alt="Le Buis de Beauté"></a>
+    src="./image/rhododendron.jpg"
+    alt="Rhododendron"></a>
   </div>
   <div class="font-content-sans">
-    <a class="block text-2xlp sm:text-2xl leading-tightly tracking-tightly font-semibold text-raven-800 hover:text-raven-900" href="./balcon/buis_beaute/">Le Buis de Beauté</a>
-    <a class="mt-2 block text-xl sm:text-base leading-tight tracking-normal font-normal text-raven-500 hover:text-raven-600" href="./balcon/buis_beaute/">Et voici un Buis de Beauté. Il me donne, des fleurs roses toutes mignones !
+    <a class="block text-2xlp sm:text-2xl leading-tightly tracking-tightly font-semibold text-raven-800 hover:text-raven-900" href="./balcon/rhododendron/">Rhododendron</a>
+    <a class="mt-2 block text-xl sm:text-base leading-tight tracking-normal font-normal text-raven-500 hover:text-raven-600" href="./balcon/rhododendron/">Attention, rhododendron !
+</a>
+    <aside class="mt-6 text-2sm leading-snug tracking-normal font-normal text-raven-500"><time datetime="2020-04-12T00:00:00Z">Apr 12, 2020</time></aside>
+  </div>
+</div>
+
+          </div>
+        
+          <div class="mt-8">
+            <div class="sm:flex">
+  <div class="sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="./balcon/buisson_beaute/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="./image/buis_beaute.jpg"
+    alt="Buisson de beauté"></a>
+  </div>
+  <div class="font-content-sans">
+    <a class="block text-2xlp sm:text-2xl leading-tightly tracking-tightly font-semibold text-raven-800 hover:text-raven-900" href="./balcon/buisson_beaute/">Buisson de beauté</a>
+    <a class="mt-2 block text-xl sm:text-base leading-tight tracking-normal font-normal text-raven-500 hover:text-raven-600" href="./balcon/buisson_beaute/">Voici mon buisson de beauté, kolkwitzia amabilis. Il est beau, et me donne des fleurs roses toutes mignones !
 </a>
     <aside class="mt-6 text-2sm leading-snug tracking-normal font-normal text-raven-500"><time datetime="2020-04-09T00:00:00Z">Apr 9, 2020</time></aside>
   </div>
@@ -167,12 +185,12 @@ Je les adore et je partage  :-)</p>
   <div class="sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
     <a class="block" href="./balcon/lilas/"><img
     class="sm:w-40 sm:h-40 mx-auto object-cover"
-    src="./image/lilas.jpg"
-    alt="Le Lilas"></a>
+    src="./image/lilas0.jpg"
+    alt="Lilas"></a>
   </div>
   <div class="font-content-sans">
-    <a class="block text-2xlp sm:text-2xl leading-tightly tracking-tightly font-semibold text-raven-800 hover:text-raven-900" href="./balcon/lilas/">Le Lilas</a>
-    <a class="mt-2 block text-xl sm:text-base leading-tight tracking-normal font-normal text-raven-500 hover:text-raven-600" href="./balcon/lilas/">Et voici mes lilas. Ils sont Bretons. J&#39;en suis très fière ! J&#39;en ai quatre. Ils ne fleurissent pas tous chaque année... ...</a>
+    <a class="block text-2xlp sm:text-2xl leading-tightly tracking-tightly font-semibold text-raven-800 hover:text-raven-900" href="./balcon/lilas/">Lilas</a>
+    <a class="mt-2 block text-xl sm:text-base leading-tight tracking-normal font-normal text-raven-500 hover:text-raven-600" href="./balcon/lilas/">Mes lilas, syringa vulgaris, sont Bretons. J&#39;en suis très fière ! J&#39;en ai quatre. Ils ne fleurissent pas tous chaque année... ...</a>
     <aside class="mt-6 text-2sm leading-snug tracking-normal font-normal text-raven-500"><time datetime="2020-04-09T00:00:00Z">Apr 9, 2020</time></aside>
   </div>
 </div>
@@ -193,8 +211,9 @@ Je les adore et je partage  :-)</p>
   
 </footer>
 
-<script src="./bundle.js?v=1586714734"></script>
-<script defer src="./prism.js?v=1586714734"></script>
+<script src="./app.js?v=1587227371"></script>
+<script src="./custom.js?v=1587227371"></script>
+<script defer src="./prism.js?v=1587227371"></script>
 <script data-ad-client="CA-PUB-DEV" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
 (function() {
